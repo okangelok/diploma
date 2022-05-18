@@ -1,0 +1,19 @@
+{
+  "name": "diplom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "watch": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "devDependencies": {
+    "parcel": "^2.5.0"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
